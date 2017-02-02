@@ -1,0 +1,122 @@
+body {
+	text-transform: uppercase;
+	background-color: darkgreen;
+	font-weight: bold;
+}
+
+/*-----------------------HEADER----------------------*/
+
+
+header {
+	color: #ffffff;
+}
+
+main {
+	background-image: 
+}
+
+nav {
+	font-size: 16px;
+	line-height: 20px;
+}
+
+ul {
+	list-style-type: none;
+}
+
+.main-navigation a {
+	text-decoration: none;
+	color: #ffffff;
+}
+
+.login-form {
+	color: #000000;
+}
+
+.login {
+	text-decoration: none;
+	color: #ffffff;
+}
+
+.login-form a {
+	color: #000000;
+	font-size: 14px;
+
+}
+
+.login-form h1 {
+	font-size: 30px;
+}
+
+.login-form label,
+.login-form p  {
+	font-size: 14px;
+}
+
+.login-form button {
+	color: #ffffff;
+}
+
+/*--------------------------------------MAIN------------------------------------*/
+main {
+	color: #000000;
+}
+
+main h1 {
+	font-size: 30px;
+	line-height: 42px;
+}
+
+ul {
+	list-style-type: none;
+}
+
+li a {
+	font-size: 14px;
+	line-height: 24px;
+	text-decoration: none;
+	color: #000000;
+}
+
+.bread-crumbs li p {
+	color: #aba9a7;
+}
+
+.product-description {
+	font-size: 14px;
+	line-height: 24px;
+}
+
+.description-1 span {
+	color: #aeaeae;
+}
+
+.product-price a {
+	color: #ffffff;
+}
+
+.description-2 h3 {
+	font-size: 24px;
+	line-height: 30px;
+}
+/*------------------------------FOOTER--------------------*/
+
+footer {
+	font-size: 14px;
+	line-height: 24px;
+	color: #ffffff;
+}
+
+.footer-contacts a {
+	font-size: 14px;
+	line-height: 24px;
+	color: #ffffff;
+
+} 
+
+.footer-copyright a {
+	font-size: 14px;
+	line-height: 24px;
+	color: #ffffff;
+	text-decoration: none;
+}
